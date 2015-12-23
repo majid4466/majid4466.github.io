@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Majid Fouladpour</title>
+    <description>Diery of a guy from the middle of nowhere on a learning journey.</description>
+    <link>http://crowdtohelp.com/</link>
+    <atom:link href="http://crowdtohelp.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Basic Docker</title>
+        <description>&lt;p&gt;I just discovered Docker a few days ago. It is awsome! Why am I excited about it? Because it provides a simple and easy means to play with lots of different environments and languages.&lt;/p&gt;
+
+&lt;p&gt;For istance, On my dev box I have a LAMP stack set up, which I use for main work and should keep in good shape. Now, I would like to play with other servers besides Apache. I want to experiment with NGINX, HAProxy, lighttpd, OpenLiteSpeed, etc. How would I do it? Mess up my LAMP trying to configure these servers to co-exist? Not easy/wise. Get a VPS and do the experiments there? Not cheap/convevient. The answer is “Use Docker!”&lt;/p&gt;
+
+&lt;p&gt;What Docker offers someone like me is basically easy-to-get, disposable environments to experiment with and learn new skills. For a lot of tech stacks there already is an image prepared by someone that you can pull and start using. If you need something special and you cannot find an image for, you can easily create one yourself.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Dec 2015 04:31:32 +0330</pubDate>
+        <link>http://crowdtohelp.com/docker/2015/12/23/docker/</link>
+        <guid isPermaLink="true">http://crowdtohelp.com/docker/2015/12/23/docker/</guid>
+      </item>
+    
+  </channel>
+</rss>
